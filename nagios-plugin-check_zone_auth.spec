@@ -1,5 +1,4 @@
 %define		plugin	check_zone_auth
-%include	/usr/lib/rpm/macros.perl
 Summary:	Nagios plugin to check authoritative nameservers being in sync
 Name:		nagios-plugin-%{plugin}
 Version:	1.13
